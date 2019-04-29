@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="TrackedRobot_ActionHrader/DownStairsMode.h" open="0" top="0" tabpos="2">
+		<Cursor position="4621" topLine="146" />
+	</File>
+	<File name="TrackedRobot_ActionHrader/Fuzzy.h" open="0" top="0" tabpos="5">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="TrackedRobot_ActionHrader/MaskMode.h" open="0" top="0" tabpos="10">
+		<Cursor position="1" topLine="0" />
+	</File>
+	<File name="TrackedRobot_ActionHrader/ObstacleAvoidance.h" open="0" top="0" tabpos="12">
+		<Cursor position="47460" topLine="1486" />
+	</File>
+	<File name="TrackedRobot_ActionHrader/OpenniSet.h" open="0" top="0" tabpos="11">
+		<Cursor position="322" topLine="11" />
+	</File>
+	<File name="TrackedRobot_ActionHrader/OtherFunction.h" open="0" top="0" tabpos="5">
+		<Cursor position="45719" topLine="1377" />
+	</File>
+	<File name="TrackedRobot_ActionHrader/SelfMode.h" open="0" top="0" tabpos="2">
+		<Cursor position="48018" topLine="1347" />
+	</File>
+	<File name="TrackedRobot_ActionHrader/TR_ManualControl.h" open="0" top="0" tabpos="4">
+		<Cursor position="1308" topLine="51" />
+	</File>
+	<File name="TrackedRobot_ActionHrader/UpStairsMode.h" open="0" top="0" tabpos="3">
+		<Cursor position="8156" topLine="245" />
+	</File>
+	<File name="TrackedRobot_ActionHrader/WallFollowing.h" open="1" top="0" tabpos="3">
+		<Cursor position="294" topLine="0" />
+	</File>
+	<File name="TrackedRobot_ActionHrader/WillyMode.h" open="1" top="0" tabpos="2">
+		<Cursor position="1041" topLine="9" />
+	</File>
+	<File name="TrackedRobot_ActionHrader/XtionDepth.h" open="0" top="0" tabpos="9">
+		<Cursor position="44448" topLine="3" />
+	</File>
+	<File name="TrackedRobot_MotorHeader/MotorEncoder.h" open="0" top="0" tabpos="14">
+		<Cursor position="4794" topLine="0" />
+	</File>
+	<File name="TrackedRobot_MotorHeader/MotorSet.h" open="0" top="0" tabpos="15">
+		<Cursor position="2782" topLine="57" />
+	</File>
+	<File name="TrackedRobot_MotorHeader/Slim5_CS.h" open="0" top="0" tabpos="18">
+		<Cursor position="672" topLine="8" />
+	</File>
+	<File name="TrackedRobot_MotorHeader/Slim5_JG.h" open="0" top="0" tabpos="6">
+		<Cursor position="4055" topLine="163" />
+	</File>
+	<File name="TrackedRobot_MotorHeader/Slim5_MA.h" open="0" top="0" tabpos="19">
+		<Cursor position="1340" topLine="0" />
+	</File>
+	<File name="TrackedRobot_MotorHeader/Slim5_MR.h" open="0" top="0" tabpos="20">
+		<Cursor position="621" topLine="0" />
+	</File>
+	<File name="TrackedRobot_MotorHeader/Slim5_Speed.h" open="0" top="0" tabpos="17">
+		<Cursor position="712" topLine="12" />
+	</File>
+	<File name="TrackedRobot_MotorHeader/Slim9_XtionMotor.h" open="0" top="0" tabpos="2">
+		<Cursor position="212" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="21166" topLine="711" />
+	</File>
+</CodeBlocks_layout_file>

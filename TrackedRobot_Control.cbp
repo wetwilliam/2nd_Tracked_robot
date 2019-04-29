@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="TrackedRobot_Control" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/TrackedRobot_Control" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/TrackedRobot_Control" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="TrackedRobot_ActionHrader/DownStairsMode.h" />
+		<Unit filename="TrackedRobot_ActionHrader/Fuzzy.h" />
+		<Unit filename="TrackedRobot_ActionHrader/MaskMode.h" />
+		<Unit filename="TrackedRobot_ActionHrader/ObstacleAvoidance.h" />
+		<Unit filename="TrackedRobot_ActionHrader/OpenniSet.h" />
+		<Unit filename="TrackedRobot_ActionHrader/OtherFunction.h" />
+		<Unit filename="TrackedRobot_ActionHrader/SelfMode.h" />
+		<Unit filename="TrackedRobot_ActionHrader/TR_ManualControl.h" />
+		<Unit filename="TrackedRobot_ActionHrader/UpStairsMode.h" />
+		<Unit filename="TrackedRobot_ActionHrader/WallFollowing.h" />
+		<Unit filename="TrackedRobot_ActionHrader/WillyMode.h" />
+		<Unit filename="TrackedRobot_ActionHrader/XtionDepth.h" />
+		<Unit filename="TrackedRobot_MotorHeader/MotorEncoder.h" />
+		<Unit filename="TrackedRobot_MotorHeader/MotorSet.h" />
+		<Unit filename="TrackedRobot_MotorHeader/Slim5_CS.h" />
+		<Unit filename="TrackedRobot_MotorHeader/Slim5_JG.h" />
+		<Unit filename="TrackedRobot_MotorHeader/Slim5_MA.h" />
+		<Unit filename="TrackedRobot_MotorHeader/Slim5_MR.h" />
+		<Unit filename="TrackedRobot_MotorHeader/Slim5_Speed.h" />
+		<Unit filename="TrackedRobot_MotorHeader/Slim9_XtionMotor.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
